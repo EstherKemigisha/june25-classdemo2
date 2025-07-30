@@ -1,0 +1,8 @@
+name: Kemigisha Esther
+on: [push]
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kemigisha Esther
+        run: echo "Kemigisha Esther!"
