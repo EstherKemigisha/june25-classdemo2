@@ -1,4 +1,4 @@
-name: Kemigisha Esther
+name: my-names
 on: [push]
 jobs:
   my-names:
