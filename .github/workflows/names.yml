@@ -1,8 +1,0 @@
-name: my-names
-on: [push]
-jobs:
-  my-names:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Kemigisha Esther
-        run: echo 'Kemigisha Esther!'
