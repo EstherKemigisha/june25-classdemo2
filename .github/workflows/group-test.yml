@@ -28,4 +28,4 @@ jobs:
         if: steps.tests.outcome == 'successs'
         run: 
          pip install pylint
-         pylint greeting
+         pylint 
